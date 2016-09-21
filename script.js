@@ -9,7 +9,6 @@ setInterval(function() {
   }	
 }, 500)
 
-classadoo.com/editor?recovery_mode=true
 
 //$("#blue-blinker").css({border: "3px solid black"});
 //$("#blue-blinker").css({border: "none"});
